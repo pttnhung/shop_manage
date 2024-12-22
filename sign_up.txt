@@ -1,0 +1,12 @@
+Username: Amirah123
+Full Name: Amirah Phan
+Age: 18
+Sex: female
+Password: 123456
+
+Username: Amirah12345
+Full Name: Amirah phan
+Age: 19
+Sex: female
+Password: 123456
+
